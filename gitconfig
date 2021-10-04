@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = benjbdk@gmail.com
+	name = benjamin boisson
